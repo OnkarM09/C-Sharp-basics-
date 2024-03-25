@@ -1,0 +1,16 @@
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\bin\Debug\net5.0\Intro To C Sharp.exe
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\bin\Debug\net5.0\Intro To C Sharp.deps.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\bin\Debug\net5.0\Intro To C Sharp.runtimeconfig.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\bin\Debug\net5.0\Intro To C Sharp.runtimeconfig.dev.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\bin\Debug\net5.0\Intro To C Sharp.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\bin\Debug\net5.0\ref\Intro To C Sharp.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\bin\Debug\net5.0\Intro To C Sharp.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.csproj.AssemblyReference.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.AssemblyInfoInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.AssemblyInfo.cs
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\ref\Intro To C Sharp.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\Intro To C Sharp\Intro To C Sharp\obj\Debug\net5.0\Intro To C Sharp.genruntimeconfig.cache

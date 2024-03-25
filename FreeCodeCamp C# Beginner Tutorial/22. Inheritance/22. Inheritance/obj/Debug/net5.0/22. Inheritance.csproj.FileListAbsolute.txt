@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\bin\Debug\net5.0\22. Inheritance.exe
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\bin\Debug\net5.0\22. Inheritance.deps.json
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\bin\Debug\net5.0\22. Inheritance.runtimeconfig.json
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\bin\Debug\net5.0\22. Inheritance.runtimeconfig.dev.json
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\bin\Debug\net5.0\22. Inheritance.dll
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\bin\Debug\net5.0\ref\22. Inheritance.dll
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\bin\Debug\net5.0\22. Inheritance.pdb
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\22. Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\22. Inheritance.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\22. Inheritance.AssemblyInfo.cs
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\22. Inheritance.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\22. Inheritance.dll
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\ref\22. Inheritance.dll
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\22. Inheritance.pdb
+C:\Onkar\C Sharp\22. Inheritance\22. Inheritance\obj\Debug\net5.0\22. Inheritance.genruntimeconfig.cache

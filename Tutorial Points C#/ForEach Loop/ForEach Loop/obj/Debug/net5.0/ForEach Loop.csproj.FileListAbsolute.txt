@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\bin\Debug\net5.0\ForEach Loop.exe
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\bin\Debug\net5.0\ForEach Loop.deps.json
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\bin\Debug\net5.0\ForEach Loop.runtimeconfig.json
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\bin\Debug\net5.0\ForEach Loop.runtimeconfig.dev.json
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\bin\Debug\net5.0\ForEach Loop.dll
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\bin\Debug\net5.0\ref\ForEach Loop.dll
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\bin\Debug\net5.0\ForEach Loop.pdb
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ForEach Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ForEach Loop.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ForEach Loop.AssemblyInfo.cs
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ForEach Loop.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ForEach Loop.dll
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ref\ForEach Loop.dll
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ForEach Loop.pdb
+C:\Onkar\C Sharp\Tutorial Points C#\ForEach Loop\ForEach Loop\obj\Debug\net5.0\ForEach Loop.genruntimeconfig.cache

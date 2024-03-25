@@ -1,0 +1,15 @@
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\bin\Debug\net5.0\2. Variables.exe
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\bin\Debug\net5.0\2. Variables.deps.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\bin\Debug\net5.0\2. Variables.runtimeconfig.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\bin\Debug\net5.0\2. Variables.runtimeconfig.dev.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\bin\Debug\net5.0\2. Variables.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\bin\Debug\net5.0\ref\2. Variables.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\bin\Debug\net5.0\2. Variables.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\2. Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\2. Variables.AssemblyInfoInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\2. Variables.AssemblyInfo.cs
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\2. Variables.csproj.CoreCompileInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\2. Variables.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\ref\2. Variables.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\2. Variables.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\2. Variables\2. Variables\obj\Debug\net5.0\2. Variables.genruntimeconfig.cache

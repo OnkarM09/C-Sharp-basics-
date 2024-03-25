@@ -1,0 +1,16 @@
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\bin\Debug\net5.0\18. Object Methods.exe
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\bin\Debug\net5.0\18. Object Methods.deps.json
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\bin\Debug\net5.0\18. Object Methods.runtimeconfig.json
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\bin\Debug\net5.0\18. Object Methods.runtimeconfig.dev.json
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\bin\Debug\net5.0\18. Object Methods.dll
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\bin\Debug\net5.0\ref\18. Object Methods.dll
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\bin\Debug\net5.0\18. Object Methods.pdb
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.csproj.AssemblyReference.cache
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.AssemblyInfo.cs
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.dll
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\ref\18. Object Methods.dll
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.pdb
+C:\Onkar\C Sharp\18. Object Methods\18. Object Methods\obj\Debug\net5.0\18. Object Methods.genruntimeconfig.cache

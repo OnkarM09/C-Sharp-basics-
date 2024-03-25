@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\bin\Debug\net5.0\21.  Static Method and Classes.exe
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\bin\Debug\net5.0\21.  Static Method and Classes.deps.json
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\bin\Debug\net5.0\21.  Static Method and Classes.runtimeconfig.json
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\bin\Debug\net5.0\21.  Static Method and Classes.runtimeconfig.dev.json
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\bin\Debug\net5.0\21.  Static Method and Classes.dll
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\bin\Debug\net5.0\ref\21.  Static Method and Classes.dll
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\bin\Debug\net5.0\21.  Static Method and Classes.pdb
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\21.  Static Method and Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\21.  Static Method and Classes.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\21.  Static Method and Classes.AssemblyInfo.cs
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\21.  Static Method and Classes.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\21.  Static Method and Classes.dll
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\ref\21.  Static Method and Classes.dll
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\21.  Static Method and Classes.pdb
+C:\Onkar\C Sharp\21.  Static Method and Classes\21.  Static Method and Classes\obj\Debug\net5.0\21.  Static Method and Classes.genruntimeconfig.cache

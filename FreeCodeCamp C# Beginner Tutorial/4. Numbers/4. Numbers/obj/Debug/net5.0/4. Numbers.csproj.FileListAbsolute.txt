@@ -1,0 +1,15 @@
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\bin\Debug\net5.0\4. Numbers.exe
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\bin\Debug\net5.0\4. Numbers.deps.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\bin\Debug\net5.0\4. Numbers.runtimeconfig.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\bin\Debug\net5.0\4. Numbers.runtimeconfig.dev.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\bin\Debug\net5.0\4. Numbers.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\bin\Debug\net5.0\ref\4. Numbers.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\bin\Debug\net5.0\4. Numbers.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\4. Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\4. Numbers.AssemblyInfoInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\4. Numbers.AssemblyInfo.cs
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\4. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\4. Numbers.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\ref\4. Numbers.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\4. Numbers.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\4. Numbers\4. Numbers\obj\Debug\net5.0\4. Numbers.genruntimeconfig.cache

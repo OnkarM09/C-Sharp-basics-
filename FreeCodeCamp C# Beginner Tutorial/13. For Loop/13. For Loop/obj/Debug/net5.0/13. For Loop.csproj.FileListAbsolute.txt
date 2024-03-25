@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\bin\Debug\net5.0\13. For Loop.exe
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\bin\Debug\net5.0\13. For Loop.deps.json
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\bin\Debug\net5.0\13. For Loop.runtimeconfig.json
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\bin\Debug\net5.0\13. For Loop.runtimeconfig.dev.json
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\bin\Debug\net5.0\13. For Loop.dll
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\bin\Debug\net5.0\ref\13. For Loop.dll
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\bin\Debug\net5.0\13. For Loop.pdb
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\13. For Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\13. For Loop.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\13. For Loop.AssemblyInfo.cs
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\13. For Loop.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\13. For Loop.dll
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\ref\13. For Loop.dll
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\13. For Loop.pdb
+C:\Onkar\C Sharp\13. For Loop\13. For Loop\obj\Debug\net5.0\13. For Loop.genruntimeconfig.cache

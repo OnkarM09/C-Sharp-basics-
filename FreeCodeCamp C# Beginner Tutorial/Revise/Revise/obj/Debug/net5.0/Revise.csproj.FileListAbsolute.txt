@@ -1,0 +1,47 @@
+C:\Onkar\C Sharp\Revise\Revise\bin\Debug\net5.0\Revise.exe
+C:\Onkar\C Sharp\Revise\Revise\bin\Debug\net5.0\Revise.deps.json
+C:\Onkar\C Sharp\Revise\Revise\bin\Debug\net5.0\Revise.runtimeconfig.json
+C:\Onkar\C Sharp\Revise\Revise\bin\Debug\net5.0\Revise.runtimeconfig.dev.json
+C:\Onkar\C Sharp\Revise\Revise\bin\Debug\net5.0\Revise.dll
+C:\Onkar\C Sharp\Revise\Revise\bin\Debug\net5.0\ref\Revise.dll
+C:\Onkar\C Sharp\Revise\Revise\bin\Debug\net5.0\Revise.pdb
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.csproj.AssemblyReference.cache
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.AssemblyInfo.cs
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.dll
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\ref\Revise.dll
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.pdb
+C:\Onkar\C Sharp\Revise\Revise\obj\Debug\net5.0\Revise.genruntimeconfig.cache
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.exe
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.deps.json
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.runtimeconfig.json
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.runtimeconfig.dev.json
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.dll
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\ref\Revise.dll
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.pdb
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.csproj.AssemblyReference.cache
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.AssemblyInfo.cs
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.dll
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\ref\Revise.dll
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.pdb
+C:\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.genruntimeconfig.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.exe
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.deps.json
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.runtimeconfig.json
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.runtimeconfig.dev.json
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.dll
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\bin\Debug\net5.0\Revise.pdb
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.AssemblyInfo.cs
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.dll
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\refint\Revise.dll
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.pdb
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\Revise.genruntimeconfig.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\Revise\Revise\obj\Debug\net5.0\ref\Revise.dll

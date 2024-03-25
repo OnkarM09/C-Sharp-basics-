@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\bin\Debug\net5.0\Enum (Enumeration).exe
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\bin\Debug\net5.0\Enum (Enumeration).deps.json
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\bin\Debug\net5.0\Enum (Enumeration).runtimeconfig.json
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\bin\Debug\net5.0\Enum (Enumeration).runtimeconfig.dev.json
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\bin\Debug\net5.0\Enum (Enumeration).dll
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\bin\Debug\net5.0\ref\Enum (Enumeration).dll
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\bin\Debug\net5.0\Enum (Enumeration).pdb
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\Enum (Enumeration).GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\Enum (Enumeration).AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\Enum (Enumeration).AssemblyInfo.cs
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\Enum (Enumeration).csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\Enum (Enumeration).dll
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\ref\Enum (Enumeration).dll
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\Enum (Enumeration).pdb
+C:\Onkar\C Sharp\Tutorial Points C#\Enum (Enumeration)\Enum (Enumeration)\obj\Debug\net5.0\Enum (Enumeration).genruntimeconfig.cache

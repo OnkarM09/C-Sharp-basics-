@@ -1,0 +1,15 @@
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\bin\Debug\net5.0\6. Simple Calc.exe
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\bin\Debug\net5.0\6. Simple Calc.deps.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\bin\Debug\net5.0\6. Simple Calc.runtimeconfig.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\bin\Debug\net5.0\6. Simple Calc.runtimeconfig.dev.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\bin\Debug\net5.0\6. Simple Calc.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\bin\Debug\net5.0\ref\6. Simple Calc.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\bin\Debug\net5.0\6. Simple Calc.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\6. Simple Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\6. Simple Calc.AssemblyInfoInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\6. Simple Calc.AssemblyInfo.cs
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\6. Simple Calc.csproj.CoreCompileInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\6. Simple Calc.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\ref\6. Simple Calc.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\6. Simple Calc.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\6. Simple Calc\6. Simple Calc\obj\Debug\net5.0\6. Simple Calc.genruntimeconfig.cache

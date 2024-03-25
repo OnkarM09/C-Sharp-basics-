@@ -1,0 +1,16 @@
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\bin\Debug\net5.0\Polymophism and Abstract Class.exe
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\bin\Debug\net5.0\Polymophism and Abstract Class.deps.json
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\bin\Debug\net5.0\Polymophism and Abstract Class.runtimeconfig.json
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\bin\Debug\net5.0\Polymophism and Abstract Class.runtimeconfig.dev.json
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\bin\Debug\net5.0\Polymophism and Abstract Class.dll
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\bin\Debug\net5.0\ref\Polymophism and Abstract Class.dll
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\bin\Debug\net5.0\Polymophism and Abstract Class.pdb
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.csproj.AssemblyReference.cache
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.AssemblyInfo.cs
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.dll
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\ref\Polymophism and Abstract Class.dll
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.pdb
+C:\Onkar\C Sharp\Tutorial Points C#\Polymophism and Abstract Class\Polymophism and Abstract Class\obj\Debug\net5.0\Polymophism and Abstract Class.genruntimeconfig.cache

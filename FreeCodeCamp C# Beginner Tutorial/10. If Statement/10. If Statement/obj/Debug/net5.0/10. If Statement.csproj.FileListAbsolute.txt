@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\bin\Debug\net5.0\10. If Statement.exe
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\bin\Debug\net5.0\10. If Statement.deps.json
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\bin\Debug\net5.0\10. If Statement.runtimeconfig.json
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\bin\Debug\net5.0\10. If Statement.runtimeconfig.dev.json
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\bin\Debug\net5.0\10. If Statement.dll
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\bin\Debug\net5.0\ref\10. If Statement.dll
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\bin\Debug\net5.0\10. If Statement.pdb
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\10. If Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\10. If Statement.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\10. If Statement.AssemblyInfo.cs
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\10. If Statement.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\10. If Statement.dll
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\ref\10. If Statement.dll
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\10. If Statement.pdb
+C:\Onkar\C Sharp\10. If Statement\10. If Statement\obj\Debug\net5.0\10. If Statement.genruntimeconfig.cache

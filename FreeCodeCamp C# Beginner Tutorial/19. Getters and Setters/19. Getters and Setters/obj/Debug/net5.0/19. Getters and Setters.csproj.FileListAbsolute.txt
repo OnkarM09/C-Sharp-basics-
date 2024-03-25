@@ -1,0 +1,31 @@
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.exe
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.deps.json
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.runtimeconfig.json
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.runtimeconfig.dev.json
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.dll
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\ref\19. Getters and Setters.dll
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.pdb
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.csproj.AssemblyReference.cache
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.AssemblyInfo.cs
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.dll
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\ref\19. Getters and Setters.dll
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.pdb
+C:\Onkar\C Sharp\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.genruntimeconfig.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.exe
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.deps.json
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.runtimeconfig.json
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.runtimeconfig.dev.json
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.dll
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\bin\Debug\net5.0\19. Getters and Setters.pdb
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.AssemblyInfo.cs
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.dll
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\refint\19. Getters and Setters.dll
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.pdb
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\19. Getters and Setters.genruntimeconfig.cache
+C:\Onkar\Onkar\C Sharp\FreeCodeCamp C# Beginner Tutorial\19. Getters and Setters\19. Getters and Setters\obj\Debug\net5.0\ref\19. Getters and Setters.dll

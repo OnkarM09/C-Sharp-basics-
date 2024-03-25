@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\bin\Debug\net5.0\20. Static Class Attributes.exe
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\bin\Debug\net5.0\20. Static Class Attributes.deps.json
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\bin\Debug\net5.0\20. Static Class Attributes.runtimeconfig.json
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\bin\Debug\net5.0\20. Static Class Attributes.runtimeconfig.dev.json
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\bin\Debug\net5.0\20. Static Class Attributes.dll
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\bin\Debug\net5.0\ref\20. Static Class Attributes.dll
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\bin\Debug\net5.0\20. Static Class Attributes.pdb
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\20. Static Class Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\20. Static Class Attributes.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\20. Static Class Attributes.AssemblyInfo.cs
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\20. Static Class Attributes.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\20. Static Class Attributes.dll
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\ref\20. Static Class Attributes.dll
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\20. Static Class Attributes.pdb
+C:\Onkar\C Sharp\20. Static Class Attributes\20. Static Class Attributes\obj\Debug\net5.0\20. Static Class Attributes.genruntimeconfig.cache

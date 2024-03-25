@@ -1,0 +1,15 @@
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\bin\Debug\net5.0\3. Strings.exe
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\bin\Debug\net5.0\3. Strings.deps.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\bin\Debug\net5.0\3. Strings.runtimeconfig.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\bin\Debug\net5.0\3. Strings.runtimeconfig.dev.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\bin\Debug\net5.0\3. Strings.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\bin\Debug\net5.0\ref\3. Strings.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\bin\Debug\net5.0\3. Strings.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\3. Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\3. Strings.AssemblyInfoInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\3. Strings.AssemblyInfo.cs
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\3. Strings.csproj.CoreCompileInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\3. Strings.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\ref\3. Strings.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\3. Strings.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\3. Strings\3. Strings\obj\Debug\net5.0\3. Strings.genruntimeconfig.cache

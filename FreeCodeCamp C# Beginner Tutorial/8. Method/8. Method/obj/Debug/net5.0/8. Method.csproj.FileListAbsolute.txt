@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\8. Method\8. Method\bin\Debug\net5.0\8. Method.exe
+C:\Onkar\C Sharp\8. Method\8. Method\bin\Debug\net5.0\8. Method.deps.json
+C:\Onkar\C Sharp\8. Method\8. Method\bin\Debug\net5.0\8. Method.runtimeconfig.json
+C:\Onkar\C Sharp\8. Method\8. Method\bin\Debug\net5.0\8. Method.runtimeconfig.dev.json
+C:\Onkar\C Sharp\8. Method\8. Method\bin\Debug\net5.0\8. Method.dll
+C:\Onkar\C Sharp\8. Method\8. Method\bin\Debug\net5.0\ref\8. Method.dll
+C:\Onkar\C Sharp\8. Method\8. Method\bin\Debug\net5.0\8. Method.pdb
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\8. Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\8. Method.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\8. Method.AssemblyInfo.cs
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\8. Method.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\8. Method.dll
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\ref\8. Method.dll
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\8. Method.pdb
+C:\Onkar\C Sharp\8. Method\8. Method\obj\Debug\net5.0\8. Method.genruntimeconfig.cache

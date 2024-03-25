@@ -1,0 +1,15 @@
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\bin\Debug\net5.0\17. Constructors.exe
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\bin\Debug\net5.0\17. Constructors.deps.json
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\bin\Debug\net5.0\17. Constructors.runtimeconfig.json
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\bin\Debug\net5.0\17. Constructors.runtimeconfig.dev.json
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\bin\Debug\net5.0\17. Constructors.dll
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\bin\Debug\net5.0\ref\17. Constructors.dll
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\bin\Debug\net5.0\17. Constructors.pdb
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\17. Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\17. Constructors.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\17. Constructors.AssemblyInfo.cs
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\17. Constructors.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\17. Constructors.dll
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\ref\17. Constructors.dll
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\17. Constructors.pdb
+C:\Onkar\C Sharp\17. Constructors\17. Constructors\obj\Debug\net5.0\17. Constructors.genruntimeconfig.cache

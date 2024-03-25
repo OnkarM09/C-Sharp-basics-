@@ -1,0 +1,15 @@
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\bin\Debug\net5.0\5. Getting Inpur From User.exe
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\bin\Debug\net5.0\5. Getting Inpur From User.deps.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\bin\Debug\net5.0\5. Getting Inpur From User.runtimeconfig.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\bin\Debug\net5.0\5. Getting Inpur From User.runtimeconfig.dev.json
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\bin\Debug\net5.0\5. Getting Inpur From User.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\bin\Debug\net5.0\ref\5. Getting Inpur From User.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\bin\Debug\net5.0\5. Getting Inpur From User.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\5. Getting Inpur From User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\5. Getting Inpur From User.AssemblyInfoInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\5. Getting Inpur From User.AssemblyInfo.cs
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\5. Getting Inpur From User.csproj.CoreCompileInputs.cache
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\5. Getting Inpur From User.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\ref\5. Getting Inpur From User.dll
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\5. Getting Inpur From User.pdb
+C:\Users\OnkarMeherwade\Desktop\C Sharp\5. Getting Inpur From User\5. Getting Inpur From User\obj\Debug\net5.0\5. Getting Inpur From User.genruntimeconfig.cache

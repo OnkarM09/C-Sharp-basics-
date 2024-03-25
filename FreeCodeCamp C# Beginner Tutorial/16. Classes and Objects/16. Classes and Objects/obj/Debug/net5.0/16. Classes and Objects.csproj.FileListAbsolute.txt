@@ -1,0 +1,16 @@
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\bin\Debug\net5.0\16. Classes and Objects.exe
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\bin\Debug\net5.0\16. Classes and Objects.deps.json
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\bin\Debug\net5.0\16. Classes and Objects.runtimeconfig.json
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\bin\Debug\net5.0\16. Classes and Objects.runtimeconfig.dev.json
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\bin\Debug\net5.0\16. Classes and Objects.dll
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\bin\Debug\net5.0\ref\16. Classes and Objects.dll
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\bin\Debug\net5.0\16. Classes and Objects.pdb
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.csproj.AssemblyReference.cache
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.AssemblyInfoInputs.cache
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.AssemblyInfo.cs
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.dll
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\ref\16. Classes and Objects.dll
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.pdb
+C:\Onkar\C Sharp\16. Classes and Objects\16. Classes and Objects\obj\Debug\net5.0\16. Classes and Objects.genruntimeconfig.cache
